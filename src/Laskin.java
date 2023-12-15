@@ -91,7 +91,7 @@ public class Laskin extends JFrame implements ActionListener {
         this.getContentPane().setBackground(Color.BLACK);
         this.setLayout(null);
         this.setResizable(false);
-        this.setTitle("Laskinsovellus");
+        this.setTitle("Haapanen Johannes Laskinsovellus");
 
         this.add(kuvaKentta);
         this.add(kerrosPaneeli);
